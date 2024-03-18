@@ -1,0 +1,36 @@
+/* Thanks CSS */
+
+/* Importing Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Khojki:wght@400..700&display=swap');
+
+/* Global styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+  background-color: rgb(14, 30, 37);
+  font-family: "Noto Serif Khojki", serif;
+}
+
+/* Container for the thank you message */
+.container {
+  width: 28%;
+  height: 30%;
+  margin: auto;
+  padding: 15px;
+  border: 2px solid #000000;
+  border-radius: 10px;
+  background-color: #FFFFFF;
+  margin-top: 17%;
+}
+
+/* Link styles */
+a {
+  color: #0BDA51;
+  font-weight: bold;
+  text-decoration: none;
+}

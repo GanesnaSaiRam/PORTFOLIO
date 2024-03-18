@@ -1,0 +1,177 @@
+/* Project CSS */
+
+/* Importing Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Khojki:wght@400..700&display=swap');
+
+/* Resetting default styles and setting up the base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+
+body {
+	background-color: #EDEAE0;
+	font-family: "Noto Serif Khojki", serif;
+}
+
+header {
+text-align:center;
+font-size:20px;
+}
+
+.intro,
+.overview,
+.summary,
+.design,
+.requirements {
+padding:2% 5% 2% 5%;
+}
+
+.container h2 {
+fonr-size:18px;
+margin-bottom:20px;
+}
+
+.container p {
+margin-bottom:17px;
+text-align: justify;
+}
+
+
+.diagrams {
+display:flex;
+gap:50px;
+text-align:center;
+margin-bottom:6%;
+padding-left:40px;
+}
+
+.diagrams img {
+width:100%;
+height:100%;
+border:2px solid #000000;
+border-radius:10px;
+}
+
+.diagrams h3 {
+font-size:20px;
+margin-bottom:20px;
+}
+
+.requirements h2 {
+fonr-size:18px;
+margin-bottom:40px;
+}
+
+ table {
+            border-collapse: collapse;
+            width: 70%; 
+            margin:auto; 
+        }
+
+        th {
+            font-size:20px;
+             background-color: #A9A9A9;
+            border: 2px solid #000000;
+            text-align: center;
+            padding: 8px;
+          
+        }
+
+
+           td {
+            text-align: left;
+            padding: 8px;
+            border-left: 2px solid #000000; 
+            border-right: 2px solid #000000; 
+            background-color: #FFFFFF;
+           }
+             tr:last-child td {
+            border-bottom: 2px solid #000000; 
+        }
+
+
+
+
+
+
+
+/* body {
+    background-color: #EDEAE0;
+    font-family: "Noto Serif Khojki", serif;
+}
+
+/* Header styles */
+header {
+    text-align: center;
+    font-size: 20px;
+}
+
+/* Section styles */
+.intro,
+.overview,
+.summary,
+.design,
+.requirements {
+    padding: 2% 5%;
+ 
+}
+
+/* General paragraph styles */
+.container p {
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+/* Diagram styles */
+.diagrams {
+    display: flex;
+    gap: 50px;
+    text-align: center;
+    margin-bottom: 6%;
+    padding-left: 40px;
+}
+
+.diagrams img {
+    width: 100%;
+    height: 100%;
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+
+.diagrams h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+/* Requirements table styles */
+table {
+    border-collapse: collapse;
+    width: 70%;
+    margin: auto;
+}
+
+th {
+    font-size: 20px;
+    background-color: #A9A9A9;
+    border: 2px solid #000000;
+    text-align: center;
+    padding: 8px;
+}
+
+td {
+    text-align: left;
+    padding: 8px;
+    border-left: 2px solid #000000;
+    border-right: 2px solid #000000;
+    background-color: #FFFFFF;
+}
+
+tr:last-child td {
+    border-bottom: 2px solid #000000;
+} */
+
+
