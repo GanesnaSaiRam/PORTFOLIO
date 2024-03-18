@@ -3,18 +3,27 @@
 <details>
   <summary><strong>Table of Contents</strong></summary>
 
-1. [Description](#description)
-2. [Screenshots](#screenshots)
-3. [Technologies used](#technologies-used)
-4. [Installation Instructions](#installation-instructions)
-5. [License](#license)
+1. Description
+2. Screenshots
+3. Technologies used
+4. Installation Instructions
+5. License
 
 </details>
 
 ## Description
-Welcome to my portfolio website! It showcases my skills and projects. Explore my background, key projects, and connect with me.
+
+Welcome to my portfolio website. It showcases my skills and projects. Explore my background, key projects, and connect with me.
 
 ## Screenshots
+
+![Home](Screenshots/home.jpg)
+![About Me](Screenshots/aboutme.jpg)
+![Skills](Screenshots/skills.jpg)
+![Project](Screenshots/project.jpg)
+![Contact Me](Screenshots/contact.jpg)
+
+
 
 ## Technologies Used
 
