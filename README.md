@@ -20,7 +20,7 @@ Welcome to my portfolio website. It showcases my skills and projects. Explore my
 ![Home](Screenshots/home.jpg)
 ![About Me](Screenshots/aboutme.jpg)
 ![Skills](Screenshots/skills.jpg)
-![Project](Screenshots/project.jpg)
+![Project](Screenshots/projects.jpg)
 ![Contact Me](Screenshots/contact.jpg)
 
 
